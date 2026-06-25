@@ -160,6 +160,9 @@ This repository does not include OpenLane configuration files, generated simulat
 ## Author
 
 Tran Trinh Huy
+
 Le Dang Thanh Son
+
 Graduation Thesis Project
+
 Electronics and Telecommunications Engineering
